@@ -1,3 +1,2 @@
-ID,Item,Category,Amount,Date,Note
-1,lunch,Food,150.0,2026-06-09 14:06,vsp
-2,movie,Others,300.0,2026-06-09 14:11,njoy
+Item,Category,Amount
+food,Food,500
